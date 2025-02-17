@@ -16,7 +16,7 @@
 <h2>4. MEXC Referans Kodu Nasıl Kullanılır? (Adım Adım Kılavuz)</h2>
 <h3>4.1. MEXC'ye Kaydolun</h3>
 <ol>
-    <li><strong>MEXC resmi web sitesini</strong> ziyaret edin veya mobil uygulamayı indirin.</li>
+    <li><strong><a href="https://www.mexc.com/register?inviteCode=mexc-1huHd" target="_blank">MEXC resmi web sitesini</a></strong> ziyaret edin veya mobil uygulamayı indirin.</li>
     <li><strong>Kayıt Ol</strong> butonuna tıklayın ve e-posta veya telefon numaranızı girin.</li>
     <li><strong>MEXC referans kodu: 1huHd</strong> kodunu ilgili alana girin.</li>
 </ol>
@@ -24,7 +24,7 @@
 <h2>5. MEXC Referans Kodu Tablosu</h2>
 <table border="1">
     <tr>
-        <th>Referans Kodu</th>
+        <th>MEXC Referans Kodu</th>
         <th>Bonus</th>
         <th>İşlem Ücreti İndirimi</th>
     </tr>
